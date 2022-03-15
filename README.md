@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my personal and professional website.
 
-You can use the [editor on GitHub](https://github.com/elbechu/elbechu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Mathematics PhD student in the [Ruhr-Uni-Bochum](https://www.ruhr-uni-bochum.de/ffm/index.html.de). My research is mainly in the intersection between Dynamical Systems and Symplectic Geometry.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
