@@ -2,14 +2,14 @@
 
 I am a Mathematics PhD student in the [Ruhr-Uni-Bochum](https://www.ruhr-uni-bochum.de/ffm/index.html.de). My research is mainly in the intersection between Dynamical Systems and Symplectic Geometry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [Asymptotic action and asymptotic winding number for area-preserving diffeomorphisms of the disk](https://link.springer.com/content/pdf/10.1007/s40316-021-00173-7.pdf)
+2. [On the relation between action and linking](https://www.aimsciences.org/article/doi/10.3934/jmd.2021011) (joint with U.Hryniewicz and P. Salomão)
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block to learn how to built a nice page.
 
 # Header 1
 ## Header 2
