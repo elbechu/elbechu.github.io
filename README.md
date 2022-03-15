@@ -10,24 +10,6 @@ Hi there!, my name is David Bechara Senior. I am a Mathematics PhD student in th
 1. [Asymptotic action and asymptotic winding number for area-preserving diffeomorphisms of the disk](https://link.springer.com/content/pdf/10.1007/s40316-021-00173-7.pdf)
 2. [On the relation between action and linking](https://www.aimsciences.org/article/doi/10.3934/jmd.2021011) (joint with U.Hryniewicz and P. Salomão)
 
-```markdown
-Syntax highlighted code block to learn how to built a nice page.
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 
 ### Contact
 My email is " david.becharasenior [you know wh"AT"] rub.de " +
